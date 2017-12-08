@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## tab选项卡示例教程-nativeObj原生模式tab（含底部凸起大图标）
 ## 概述
 
@@ -24,3 +25,7 @@
 ## 使用教程
 
 [教程参考](http://ask.dcloud.net.cn/article/12602)
+=======
+# MUIMovie
+MUI App
+>>>>>>> 600b85dd7fcf9f568e14c1cafa14aff5cae96fae
